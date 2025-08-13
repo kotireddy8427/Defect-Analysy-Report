@@ -1,0 +1,10 @@
+Input Data: JSON array of defects containing:
+id: Defect ID
+title: Short description
+module: Feature/module name
+rootCause: Category (e.g., Coding Error, Requirement Gap, Test Coverage Gap)
+severity: Critical, High, Medium, Low
+status: Open, Resolved, Closed
+createdAt and resolvedAt timestamps
+assignedTo: Developer/Team
+resolutionNotes: Text notes
